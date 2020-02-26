@@ -1,0 +1,10 @@
+# Pycharm folder and files
+.idea/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook and Lab
+.ipynb_checkpoints/
+
+## Mac Specific Files
+.DS_Store
