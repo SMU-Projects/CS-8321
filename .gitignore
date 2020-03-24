@@ -9,7 +9,11 @@ __pycache__/
 # Mac Specific Files
 .DS_Store
 
-# Additional
 # Lab 2
-Lab_2/data/datasets/
-Lab_2/data/models/pre-trained/
+Lab_1/data/gifs
+
+# Lab 2
+Lab_2/data
+
+# Lab 3
+Lab_3/data
