@@ -6,5 +6,14 @@ __pycache__/
 # Jupyter Notebook and Lab
 .ipynb_checkpoints/
 
-## Mac Specific Files
+# Mac Specific Files
 .DS_Store
+
+# Lab 2
+Lab_1/data/gifs
+
+# Lab 2
+Lab_2/data
+
+# Lab 3
+Lab_3/data
